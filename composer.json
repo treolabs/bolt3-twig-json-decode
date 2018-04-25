@@ -1,0 +1,26 @@
+{
+    "name": "zinitsolutionsgmbh/bolt3-twig-json-decode",
+    "description": "Bolt CMS 3 twig filter json_decode",
+    "type": "bolt-extension",
+    "keywords": ["json", "decode", "json_decode"],
+    "require": {
+        "bolt/bolt": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zinit Solutions GmbH",
+            "homepage": "http://zinitsolutions.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Bolt\\Extension\\ZinitSolutionsGmbH\\TwigJsonDecode\\": "src"
+        }
+    },
+    "extra": {
+        "bolt-class": "Bolt\\Extension\\ZinitSolutionsGmbH\\TwigJsonDecode\\TwigJsonDecodeExtension"
+    }
+}
