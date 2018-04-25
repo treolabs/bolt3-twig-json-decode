@@ -2,7 +2,6 @@
 
 namespace Bolt\Extension\ZinitSolutionsGmbH\TwigJsonDecode;
 
-use Bolt\Asset\File\JavaScript;
 use Bolt\Extension\SimpleExtension;
 
 /**
