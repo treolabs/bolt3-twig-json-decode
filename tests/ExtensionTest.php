@@ -1,9 +1,9 @@
 <?php
 
-namespace Bolt\Extension\ZinitSolutionsGmbH\TwigJsonDecode\Tests;
+namespace Bolt\Extension\TreoLabs\TwigJsonDecode\Tests;
 
 use Bolt\Tests\BoltUnitTest;
-use Bolt\Extension\ZinitSolutionsGmbH\TwigJsonDecode\TwigJsonDecodeExtension;
+use Bolt\Extension\TreoLabs\TwigJsonDecode\TwigJsonDecodeExtension;
 
 /**
  * TwigJsonDecodeTest testing class.

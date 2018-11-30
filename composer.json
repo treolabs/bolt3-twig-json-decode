@@ -1,5 +1,5 @@
 {
-    "name": "zinitsolutionsgmbh/bolt3-twig-json-decode",
+    "name": "treolabs/bolt3-twig-json-decode",
     "description": "Bolt CMS 3 twig filter json_decode",
     "type": "bolt-extension",
     "keywords": ["json", "decode", "json_decode"],
@@ -9,18 +9,18 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Zinit Solutions GmbH",
-            "homepage": "http://zinitsolutions.de"
+            "name": "TreoLabs GmbH",
+            "homepage": "https://treolabs.com"
         }
     ],
     "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Bolt\\Extension\\ZinitSolutionsGmbH\\TwigJsonDecode\\": "src"
+            "Bolt\\Extension\\TreoLabs\\TwigJsonDecode\\": "src"
         }
     },
     "extra": {
-        "bolt-class": "Bolt\\Extension\\ZinitSolutionsGmbH\\TwigJsonDecode\\TwigJsonDecodeExtension"
+        "bolt-class": "Bolt\\Extension\\TreoLabs\\TwigJsonDecode\\TwigJsonDecodeExtension"
     }
 }

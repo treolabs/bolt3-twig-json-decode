@@ -1,6 +1,6 @@
 <?php
 
-namespace Bolt\Extension\ZinitSolutionsGmbH\TwigJsonDecode;
+namespace Bolt\Extension\TreoLabs\TwigJsonDecode;
 
 use Bolt\Extension\SimpleExtension;
 
